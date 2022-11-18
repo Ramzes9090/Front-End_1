@@ -10,7 +10,7 @@ bodyEl.addEventListener("mousemove", (event) => {
     const yPos = event.offsetY;
 
 
-    
+
 
     const spanEl = document.createElement("span");
 
